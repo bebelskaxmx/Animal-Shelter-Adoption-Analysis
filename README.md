@@ -42,10 +42,11 @@ Color: Color has an impact as well — animals with more common or lighter coat 
 ![Adoptions by Animal Gender](https://github.com/user-attachments/assets/f8066561-5fa6-4234-8af5-624fcd26e3c8)
 
 
+![adoptions by age group pie chart](https://github.com/user-attachments/assets/f59dbba4-4f8b-4b64-8fbc-ef95600e9804)
+
 ![Top 10 Adopted Colors](https://github.com/user-attachments/assets/9e809858-d285-4af8-a4b4-3933b90ed8a0)
 
 
-![adoptions by age group pie chart](https://github.com/user-attachments/assets/f59dbba4-4f8b-4b64-8fbc-ef95600e9804)
 
 
 
