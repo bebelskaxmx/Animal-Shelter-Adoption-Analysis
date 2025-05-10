@@ -45,26 +45,8 @@ Color: Color has an impact as well — animals with more common or lighter coat 
 ![Top 10 Adopted Colors](https://github.com/user-attachments/assets/9e809858-d285-4af8-a4b4-3933b90ed8a0)
 
 
+![adoptions by age group pie chart](https://github.com/user-attachments/assets/f59dbba4-4f8b-4b64-8fbc-ef95600e9804)
 
-1 month          5009
-
-1 year           4935
-
-2 years          3576
-
-2 months         2698
-
-3 years          1496
-
-4 weeks          1377
-
-4 months         1003
-
-3 months          951
-
-5 months          867
-
-4 years           861
 
 
 3. What are the most common outcomes for animals (adoption, euthanasia, return to owner)?
