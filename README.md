@@ -1,7 +1,9 @@
 Project: Animal Shelter Adoption Analysis
 
 Project Goal:
+
 To understand which factors influence animal adoptions in a shelter:
+
 *Which animals are adopted most frequently?
 *Does breed, gender, age, or color matter?
 *What are the most common outcomes for animals (adoption, euthanasia, return to owner)?
@@ -11,10 +13,12 @@ To understand which factors influence animal adoptions in a shelter:
 1. Which animals are adopted most frequently?
 Dogs and cats are the most frequently adopted animals.
 Based on the intake and adoption data, dogs are adopted slightly more often than cats.
+
+
 ![Which Animals Are Adopted Most Frequently](https://github.com/user-attachments/assets/6e8a6f2c-6b7b-40e7-9612-489bbab3b5f4)
 
 
-2. Does breed, gender, age, or color matter?
+3. Does breed, gender, age, or color matter?
 Yes, these factors influence adoption rates:
 
 Breed: Certain breeds, especially mixed-breed dogs, are adopted more frequently than others.
@@ -23,8 +27,14 @@ Age: Younger animals (especially those under one year of age) are significantly 
 Color: Color has an impact as well — animals with more common or lighter coat colors (e.g., black and white, brown) tend to be adopted more quickly.
 
 ![Top 10 Adopted Breeds](https://github.com/user-attachments/assets/b82a2610-504b-498b-8796-b8b76858cd86)
+
+
 ![Adoptions by Animal Gender](https://github.com/user-attachments/assets/f8066561-5fa6-4234-8af5-624fcd26e3c8)
+
+
 ![Top 10 Adopted Colors](https://github.com/user-attachments/assets/9e809858-d285-4af8-a4b4-3933b90ed8a0)
+
+
 
 1 month          5009
 1 year           4935
@@ -51,8 +61,9 @@ Yes, there are differences:
 Dogs are admitted to the shelter more frequently than cats.
 Dogs also tend to have slightly higher adoption rates compared to cats.
 
+![types of animals that end up in the shelter](https://github.com/user-attachments/assets/167e6d83-a8b3-42a5-b445-861778638119)
 
-![cat vs dogs](https://github.com/user-attachments/assets/74da75ea-9e14-43a0-bd87-49eca00099d0)
+
 ![Which Animals Are Adopted Most Frequently](https://github.com/user-attachments/assets/40c47213-47b1-4c1b-a451-00a523ab43c6)
 
 
