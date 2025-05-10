@@ -47,14 +47,23 @@ Color: Color has an impact as well — animals with more common or lighter coat 
 
 
 1 month          5009
+
 1 year           4935
+
 2 years          3576
+
 2 months         2698
+
 3 years          1496
+
 4 weeks          1377
+
 4 months         1003
+
 3 months          951
+
 5 months          867
+
 4 years           861
 
 
