@@ -14,7 +14,7 @@ To understand which factors influence animal adoptions in a shelter:
 
 
 1. Which animals are adopted most frequently?
-2. 
+   
 Dogs and cats are the most frequently adopted animals.
 
 Based on the intake and adoption data, dogs are adopted slightly more often than cats.
@@ -23,8 +23,8 @@ Based on the intake and adoption data, dogs are adopted slightly more often than
 ![Which Animals Are Adopted Most Frequently](https://github.com/user-attachments/assets/6e8a6f2c-6b7b-40e7-9612-489bbab3b5f4)
 
 
-3. Does breed, gender, age, or color matter?
-4. 
+2.Does breed, gender, age, or color matter?
+ 
 Yes, these factors influence adoption rates:
 
 Breed: Certain breeds, especially mixed-breed dogs, are adopted more frequently than others.
@@ -59,7 +59,7 @@ Color: Color has an impact as well — animals with more common or lighter coat 
 
 
 3. What are the most common outcomes for animals (adoption, euthanasia, return to owner)?
-4. 
+
 Adoption is by far the most common outcome for animals at the shelter.
 
 Other outcomes, such as return to owner or euthanasia, occur much less frequently.
@@ -70,7 +70,7 @@ Other outcomes, such as return to owner or euthanasia, occur much less frequentl
 
 
 4. Are there differences between dogs and cats?
-5. 
+
 Yes, there are differences:
 
 Dogs are admitted to the shelter more frequently than cats.
